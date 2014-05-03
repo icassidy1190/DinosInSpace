@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 06adb1a6d0415b74295c969b891ef73d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Lazer: {fileID: 400000, guid: e0c425e1834e9ad42af8fb7bfececd03, type: 2}
+  - Player: {instanceID: 0}
+  - collided_with: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

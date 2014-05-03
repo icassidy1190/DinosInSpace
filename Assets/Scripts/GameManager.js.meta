@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 58f6c195f7201b845837be7c0dd8aebc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Astroid: {instanceID: 0}
+  - textLayout: {fileID: 11400000, guid: 2c8b69e03e228fc46a72b23c9235c42c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
